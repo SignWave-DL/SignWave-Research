@@ -4,6 +4,9 @@
 
 This step implements local audio processing using OpenAI's Whisper model. It captures and transcribes audio files into text, with the ability to translate non-English audio to English. This is the first stage of the SignWave research pipeline for converting audio input into text for further processing.
 
+<img width="499" height="184" alt="image" src="https://github.com/user-attachments/assets/a0c92fd5-3f12-4676-b46f-4a6114ab3da8" />
+
+
 ## How It Works
 
 ### Architecture
