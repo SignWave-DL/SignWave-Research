@@ -5,6 +5,8 @@ The user interface component of SignWave-Research. This is a React-based web app
 ## Overview
 
 Step 2 builds a TypeScript + React + Vite frontend application with Tailwind CSS styling. This UI layer interfaces with the Whisper-based backend from Step 1 to create a complete end-to-end system.
+<img width="1607" height="976" alt="image" src="https://github.com/user-attachments/assets/08d081fa-8db5-4eb1-9ed4-363ff6e121b9" />
+
 
 ## Tech Stack
 
