@@ -1,0 +1,47 @@
+# ========================
+# Core Backend
+# ========================
+fastapi
+uvicorn[standard]
+pydantic
+
+# ========================
+# Speech-to-Text (Whisper)
+# ========================
+openai-whisper
+torch
+torchaudio
+numpy
+
+# ========================
+# Text Processing (NLP)
+# ========================
+regex
+nltk
+spacy
+
+# ========================
+# Database (SQLite)
+# ========================
+sqlalchemy
+
+# ========================
+# Audio Processing
+# ========================
+pydub
+ffmpeg-python
+
+# ========================
+# WebSocket for real-time
+# ========================
+websockets
+datasets
+jiwer
+
+# ========================
+# Utils
+# ========================
+requests
+python-multipart
+alembic
+asyncpg
