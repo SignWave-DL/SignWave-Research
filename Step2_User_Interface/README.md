@@ -1,6 +1,6 @@
 # Step 2: User Interface
 
-The user interface component of SignWave-Research. This is a React-based web application called **deaf_listener** that provides an accessible interface for the SignWave system.
+The user interface component of SignWave-Research. This is a React-based web application called **sign_wave** that provides an accessible interface for the SignWave system.
 
 ## Overview
 
